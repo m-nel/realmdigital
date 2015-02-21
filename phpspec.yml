@@ -1,0 +1,5 @@
+suites:
+  gator:
+    namespace: Mnel\Realmdigital
+    psr4_prefix: Mnel\Realmdigital
+    src_path: src
