@@ -1,5 +1,7 @@
 # Questions Answered
 
+![Build Status](https://travis-ci.org/m-nel/realmdigital.svg?branch=master)
+
 * Answers to questions are presented as phpspec tests (located under the 'spec' directory).
 * Each answer is namespaced under Mnel\Realmdigital\{question_number}
 * Each class to every answer is can be located under the src dir
