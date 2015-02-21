@@ -1,0 +1,19 @@
+{
+  "name": "mnel/realmdigital",
+  "description": "Questions, answered",
+  "authors": [
+    {
+      "name": "Michael Nel",
+      "email": "michael.a.nel1@gmail.com"
+    }
+  ],
+  "require": {
+    "phpspec/phpspec": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mnel\\Realmdigital\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
