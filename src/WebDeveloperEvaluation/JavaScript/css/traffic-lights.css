@@ -1,0 +1,48 @@
+body {
+    background-color: #9d9393;
+}
+    .container {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 970px;
+    }
+    .robot {
+        -webkit-border-radius: 2.5em;
+        -moz-border-radius: 2.5em;
+        border-radius: 2.5em;
+        background-color: #000000;
+        height: 5.625em;
+        width: 2.875em;
+        margin: 0.625em;
+        padding-top: 0.625em;
+        display: inline-block;
+    }
+        .robot.small {
+            font-size: 16px;
+        }
+        .robot.large {
+            font-size: 24px;
+        }
+        .robot .light {
+            height: 1.5em;
+            width: 1.5em;
+            -webkit-border-radius: 1.5em;
+            -moz-border-radius: 1.5em;
+            border-radius: 1.5em;
+            margin: 0 0.6875em;
+            display: inline-block;
+        }
+            .robot .light.red {
+                background-color: red;
+            }
+            .robot .light.yellow {
+                background-color: yellow;
+            }
+            .robot .light.green {
+                background-color: green;
+            }
+            .robot .light.off {
+                background-color: black;
+            }

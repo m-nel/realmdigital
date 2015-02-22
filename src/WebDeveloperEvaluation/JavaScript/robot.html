@@ -1,0 +1,12 @@
+
+<div class="robot" ng-class="[ robot.size ]">
+
+    <div class="light"
+         ng-repeat="light in robot.lights"
+         ng-class="[ light.color, light.getPowerClass() ]"
+         ng-click="light.togglePower()"
+         ng-mouseover="light.setMouseHovering(true)"
+         ng-mouseleave="light.setMouseHovering(false)"
+    ></div>
+
+</div>
