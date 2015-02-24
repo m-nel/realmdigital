@@ -7,7 +7,7 @@ class DuplicateIdentifierSpec extends ObjectBehavior
 {
     function it_is_initializable()
     {
-        $this->shouldHaveType('Mnel\Realmdigital\Four\DuplicateIdentifier');
+        $this->shouldHaveType('Mnel\Realmdigital\Three\DuplicateIdentifier');
     }
 
     function it_can_identify_duplicate_integers_in_an_array()

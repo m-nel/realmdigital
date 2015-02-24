@@ -7,7 +7,7 @@ class IntegerSorterSpec extends ObjectBehavior
 {
     function it_is_initializable()
     {
-        $this->shouldHaveType('Mnel\Realmdigital\Six\IntegerSorter');
+        $this->shouldHaveType('Mnel\Realmdigital\Five\IntegerSorter');
     }
 
     function it_can_sort_an_array_of_integers()

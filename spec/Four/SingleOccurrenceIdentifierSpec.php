@@ -7,7 +7,7 @@ class SingleOccurrenceIdentifierSpec extends ObjectBehavior
 {
     function it_is_initializable()
     {
-        $this->shouldHaveType('Mnel\Realmdigital\Five\SingleOccurrenceIdentifier');
+        $this->shouldHaveType('Mnel\Realmdigital\Four\SingleOccurrenceIdentifier');
     }
 
     function it_can_identify_integers_in_an_array_that_occur_only_once()
