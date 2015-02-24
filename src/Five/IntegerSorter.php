@@ -1,4 +1,4 @@
-<?php namespace Mnel\Realmdigital\Six;
+<?php namespace Mnel\Realmdigital\Five;
 
 class IntegerSorter
 {

@@ -1,4 +1,4 @@
-<?php namespace spec\Mnel\Realmdigital\Four;
+<?php namespace spec\Mnel\Realmdigital\Three;
 
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;

@@ -1,4 +1,4 @@
-<?php namespace Mnel\Realmdigital\Five;
+<?php namespace Mnel\Realmdigital\Four;
 
 class SingleOccurrenceIdentifier
 {

@@ -1,4 +1,4 @@
-<?php namespace Mnel\Realmdigital\Four;
+<?php namespace Mnel\Realmdigital\Three;
 
 class DuplicateIdentifier
 {
